@@ -1,6 +1,8 @@
 const Header = () => {
   return (
-    <header style={{ backgroundColor: "lavender" }}>My Custom header</header>
+    <header style={{ backgroundColor: "lavender", height: "100px" }}>
+      My Custom header
+    </header>
   );
 };
 
