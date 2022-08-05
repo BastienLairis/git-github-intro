@@ -2,6 +2,8 @@ import "./App.css";
 
 import Header from "./components/Header";
 
+console.log("Hello world !");
+
 function App() {
   return (
     <div className="App">
